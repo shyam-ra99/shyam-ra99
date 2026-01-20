@@ -8,6 +8,6 @@
 
 # Certifications
 
-<img width="130" height="130" alt="IBM" src="https://github.com/user-attachments/assets/30983f14-7903-40d3-8cdb-6c347172112a" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="130" height="130" alt="IBM" src="https://github.com/user-attachments/assets/2d633a6e-b892-437d-af9e-6d27377835cc" />
+<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/232f487d-48c7-466c-b81a-606c2915c8ea" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/b93264f4-26e0-408c-8d1d-6978efec9f28" />
